@@ -1,4 +1,4 @@
-![Maintained? yes](https://img.shields.io/badge/Maintained%3F-yes-black.svg)
+![Maintained? yes](https://img.shields.io/badge/Maintained%3F-yes-yellow.svg)
 
 [![codecov](https://codecov.io/gh/ansible/eda-server/graph/badge.svg?token=N6Z2DZGKGZ)](https://codecov.io/gh/ansible/eda-server)
 
