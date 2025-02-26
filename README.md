@@ -1,4 +1,4 @@
-![Maintained? yes](https://github.com/tadese-nagewo/F-yes-yellow.svg)
+![Maintained? yes](https://github.com/tadese-nagewo/Maintained/F-yes-yellow.svg)
 
 [![codecov](https://codecov.io/gh/ansible/eda-server/graph/badge.svg?token=N6Z2DZGKGZ)](https://codecov.io/gh/ansible/eda-server)
 
