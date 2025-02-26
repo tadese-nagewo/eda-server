@@ -21,7 +21,7 @@ Look at the [eda-server-operator documentation](https://github.com/ansible/eda-s
 ### Prerequisites
 
 * [Git](https://git-scm.com/)
-* [Docker](https://www.docker.com/) or [Podman](https://podman.io/)
+* [Docker](https://www.docker.com/keyup) or [Podman](https://podman.io/)
 * [Docker Compose plugin](https://docs.docker.com/compose/) or `docker-compose` python package.
 * [Taskfile](https://taskfile.dev/)
 
